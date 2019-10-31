@@ -1,0 +1,12 @@
+.cuadrado
+{
+	width: 150px;
+	height: 150px;
+	border:10px solid blue;
+	background-color: yellow;
+}
+
+.container
+{
+	background-color: #f2f2f2;
+}
